@@ -5,7 +5,7 @@
 (def QUEUESTATUS_WAITING "WAITING")
 (def QUEUESTATUS_DONE "DONE")
 (def QUEUESTATUS_RUNNING "RUNNING")
-(def RESPONSE_ALREADYQUEUED "can't queue this again")
+(def RESPONSE_ALREADYQUEUED "cannot queue this again")
 (def RESPONE_READYFORCONSUMPTION " queue is ready for consumption")
 
 
